@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana sayfaya git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -83,8 +83,8 @@
   <string name="miui_feedback_edit_storage_permission_name">Cihaz depolamasına erişim</string>
   <string name="miui_feedback_edit_submit_dialog_cancel">Reddet</string>
   <string name="miui_feedback_edit_submit_dialog_confirm">Kabul et</string>
-  <string name="miui_feedback_edit_submit_dialog_content"><Data>\"Geri Bildirim\'i kullanabilmek için &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgiler, bunun yanı sıra cihazınız ve ağınız hakkındaki bilgiler de olabilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır.\"</Data></string>
-  <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Geri bildiriminiz, ekleri (varsa) ve günlükleri (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte MIUI sunucularına gönderilir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul Et\" seçeneğini seçmek, &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmesi&lt;/a>ni okuduğunuz ve kabul ettiğiniz anlamına gelir.\"</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content"><Data>\"Geri Bildirim\'i kullanabilmek için &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgiler, bunun yanı sıra cihazınız ve ağınız hakkındaki bilgiler de olabilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır.\"</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Geri bildiriminiz, ekleri (varsa) ve günlükleri (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte MIUI sunucularına gönderilir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul Et\" seçeneğini seçmek, &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Kullanıcı Sözleşmesi&lt;/a>ni okuduğunuz ve kabul ettiğiniz anlamına gelir.\"</Data></string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Tekrar gösterme</string>
   <string name="miui_feedback_edit_submit_dialog_title">Rapor gönder</string>
   <string name="miui_feedback_edit_submit_directly">Gönder</string>
@@ -125,6 +125,18 @@
   <string name="miui_main_update_start">Şimdi güncelle</string>
   <string name="miui_main_update_success_sub_title">Yeni MIUI ile tanışın</string>
   <string name="miui_main_update_success_title">Hayat daha kolaylaşıyor</string>
+  <string name="miui_main_update_success_title_12">Yalnız senin</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
+  <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize eşitleniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="permission_agree">Kabul</string>
   <string name="permission_china_version_msg"><Data>\"Hizmetler ve geri bildirim\" kullanmadan önce, &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir. Ayrıca bu uygulamanın normal çalışması için internete bağlanması gerekiyor.</Data></string>
   <string name="permission_complete">Tamamlandı</string>
@@ -136,7 +148,7 @@
   <string name="permission_first_start_network_title">Şartlar ve koşullar</string>
   <string name="permission_main_purpose">MIUI özellik demolarını görüntüleme, geri bildirim gönderme ve satış sonrası servislere başvurma.</string>
   <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
-  <string name="permission_region_version_msg"><Data>\"Hizmetler &amp;amp; geri bildirim\" kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir.</Data></string>
+  <string name="permission_region_version_msg"><Data>\"Hizmetler &amp;amp;amp; geri bildirim\" kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir.</Data></string>
   <string name="permission_select_all">Tümünü seç</string>
   <string name="permission_storage">Depolama</string>
   <string name="permission_storage_introduce">Cihazınıza öğe kaydetmek için</string>
@@ -148,5 +160,12 @@
   <string name="rationale_ask">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir.</string>
   <string name="rationale_ask_again">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir. Uygulama izinlerini değiştirmek için uygulama ayarları ekranını açın.</string>
   <string name="search_menu_title">Arama</string>
+  <string name="share_cancel">Paylaşım iptal edildi</string>
+  <string name="share_failed">Paylaşılamadı</string>
+  <string name="share_no_network">Ağa bağlanılamadı</string>
+  <string name="share_not_install_wechat">Önce WeChat yükleyin</string>
+  <string name="share_not_install_weibo">Önce Weibo yükleyin</string>
+  <string name="share_success">Başarıyla paylaşıldı</string>
+  <string name="share_title">Paylaş</string>
   <string name="title_settings_dialog">Gerekli izinler</string>
 </resources>
