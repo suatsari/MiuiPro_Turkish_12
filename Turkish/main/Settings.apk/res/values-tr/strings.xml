@@ -6879,6 +6879,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="device_oaid">Sanal kimliği yönet</string>
   <string name="restore_oaid_content">Davranış ve tercih kayıtlarınızı temizlemek için sanal kimliğinizi sıfırlayın</string>
   <string name="restore_oaid_positive">Sıfırla</string>
+  <string name="restore_oaid_positive_step">Sıfırla(%1$d)</string>
   <string name="restore_oaid_title">Sanal kimliği sıfırla</string>
   <string name="backup_set_new_continue">Devam et</string>
   <string name="backup_set_new_exit">Çıkış</string>
