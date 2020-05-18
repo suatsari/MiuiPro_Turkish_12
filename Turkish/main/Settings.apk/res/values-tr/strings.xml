@@ -1242,6 +1242,7 @@ Sorun şunlar olabilir:
   <string name="connection_and_sharing">Bağlantı &amp; paylaşım</string>
   <string name="contact_data">Kişiler</string>
   <string name="content_description_menu_button">Menü</string>
+  <string name="content_miui_music_mute_by_user">Sessiz mod açıkken medya sesi çalınsın mı?</string>
   <string name="contributors_title">Katkıda bulunanlar</string>
   <string name="controls_label">Kontroller</string>
   <string name="controls_subtitle">Güç kullanımını ayarla</string>
@@ -5058,6 +5059,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="title_hdmi_color_calibration">Renk düzeltme ön ayarı</string>
   <string name="title_layout_current">Yazı boyutu</string>
   <string name="title_layout_current2">Yazı boyutu</string>
+  <string name="title_miui_music_mute_by_user">Sessiz mod</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi Hesabınızda oturum açın</string>
   <string name="total">Rahatsız etme</string>
