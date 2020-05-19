@@ -1010,7 +1010,7 @@ bulunamadı"</string>
   <string name="tb_user_step_card_info">Günlük hedef: %1$s, hakkında %2$s veya %3$s.</string>
   <string name="tb_user_step_target_btn">Hedefi değiştir</string>
   <string name="tb_user_weight_card_info">%1$s VKİ, %2$s. Önerilen ağırlık: %3$s.</string>
-  <string name="tb_weight_choice">%1$s  &gt; %2$s %3$s</string>
+  <string name="tb_weight_choice">%1$s &gt; %2$s %3$s</string>
   <string name="tb_weight_decrease">Kilo kaybı</string>
   <string name="tb_weight_has_record">Tartım bulundu</string>
   <string name="tb_weight_increase">Kilo alındı</string>
