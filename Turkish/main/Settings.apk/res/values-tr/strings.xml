@@ -6978,7 +6978,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="key_shortcut_settings_title">Düğme kısayolları</string>
   <string name="lock_screen_display_category_name">Kilit ekranı</string>
   <string name="more_account_settings_title">Diğer hesaplar</string>
-  <string name="notch_and_status_bar_settings">Çentik &amp; durum çubuğu</string>
+  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notch_settings">Çentik</string>
   <string name="notification_center">Bildirimler</string>
   <string name="other_sound_settings_title">Ek ayarlar</string>
