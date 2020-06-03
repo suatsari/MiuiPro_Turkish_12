@@ -85,6 +85,8 @@
   <string name="default_text">我</string>
   <string name="degDesc">Açı</string>
   <string name="del">SİL</string>
+  <string name="delete">Sil</string>
+  <string name="delete_tips">Öğeler siliniyor</string>
   <string name="deleteDesc">sil</string>
   <string name="delete_description">Sil</string>
   <string name="description_content">Temel özelliklerinin yanı sıra, Hesap Makinesi aynı zamanda çok fonksiyonlu bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
@@ -119,6 +121,7 @@
   <string name="early_morning">ÖÖ</string>
   <string name="elder_brother">哥哥</string>
   <string name="elder_sister">姐姐</string>
+  <string name="empty_history">Henüz burada öğe yok</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">Eşittir</string>
@@ -150,8 +153,6 @@
   <string name="from_unit_short">km/s</string>
   <string name="fund_loan">Fon kredisi</string>
   <string name="further_education">İleri eğitim</string>
-  <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-  <string name="gay_search_result">是男是女不重要，是你就好</string>
   <string name="global_network_confirm_content">Para birimi dönüştürücüsünün normal çalışması için internete bağlanması gereklidir.</string>
   <string name="global_search_key_area_convertion">Alan;Alan Çevirici;Alan Dönüştürücü</string>
   <string name="global_search_key_calculation">Hesapla;Hesap Makinesi;Birim dönüştürme;Dönüştürücü;Birim dönüştürücü</string>
@@ -170,11 +171,12 @@
   <string name="golbal_search_path_calculator_setting">Sistem Uygulamaları/Hesap Makinesi/Ayarlar</string>
   <string name="help_content_desc">Yardım</string>
   <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
+  <string name="histories">Geçmiş</string>
   <string name="history_delete_confirmation">Geçmiş şimdi temizlensin mi?</string>
+  <string name="history_time_date_format">dd/MM/yyyy</string>
   <string name="home_loan">İpotek faizi</string>
   <string name="home_title_calculator">Hesap Makinesi</string>
   <string name="house_rent">Kira</string>
-  <string name="husband">丈夫</string>
   <string name="immersion_button_close_description">Kapat</string>
   <string name="install">Yükle</string>
   <string name="install_scanner_to_continued_use">Tarayıcı kaldırıldı. Tekrar yükle?</string>
@@ -365,14 +367,8 @@ Bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için 
   <string name="preference_check_update_summary_new_version">Güncelleme Mevcut： %s</string>
   <string name="preference_check_update_title">Güncellemeleri denetle</string>
   <string name="preference_feedback_title">SSS</string>
-  <string name="preference_follow_qq_group">QQ Grubu:523274279</string>
   <string name="preference_follow_us">Takip Et</string>
-  <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Resmi Site</string>
-  <string name="preference_follow_wechat_summary">MIUI</string>
-  <string name="preference_follow_wechat_title">WeChat</string>
-  <string name="preference_follow_weibo_summary">\@MIUI</string>
-  <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_help">Yardım &amp; geribildirim</string>
   <string name="preference_other">Diğer</string>
   <string name="preference_privacy_title">Gizlilik Politikası</string>
@@ -384,12 +380,11 @@ Bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için 
   <string name="preference_use_voice_title">Konuşma çıktısı</string>
   <string name="preference_user_feedback_title">Geri bildirim</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="pull_to_refresh">Geçmişi görüntülemek için aşağı çekin</string>
   <string name="radDesc">Radyan</string>
   <string name="rate_data_provider">Faiz aralıkları hexun.com sitesinden alınmaktadır</string>
   <string name="reciprocalDesc">Karşılıklı</string>
-  <string name="relationship_cross_check_suggestion">TA称呼我</string>
-  <string name="relationship_default_separator_text">的</string>
-  <string name="relationship_default_text">我</string>
+  <string name="release_to_refresh">Geçmişi görüntülemek için bırakın</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">sağ parantez</string>
   <string name="sar">RF Maruz Kalma Bilgileri</string>

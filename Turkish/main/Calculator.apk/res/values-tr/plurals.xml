@@ -29,6 +29,10 @@
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">1 dak önce</item>
   </plurals>
+  <plurals name="delete_msg">
+    <item quantity="other">%d öğe şimdi silinsin mi?</item>
+    <item quantity="one">%d öğe şimdi silinsin mi?</item>
+  </plurals>
   <plurals name="entries">
     <item quantity="other">%d öğe</item>
     <item quantity="one">%d öğe</item>
@@ -71,5 +75,9 @@
   <plurals name="loan_repayment_detail_unit">
     <item quantity="other">Detaylı geri ödeme (%d yıl), CNY</item>
     <item quantity="one">Detaylı geri ödeme (%d yıl), CNY</item>
+  </plurals>
+  <plurals name="select_items">
+    <item quantity="other">%d öğe seçili</item>
+    <item quantity="one">%d öğe seçili</item>
   </plurals>  
 </resources>
