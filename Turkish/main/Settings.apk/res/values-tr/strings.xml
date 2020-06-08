@@ -1903,6 +1903,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="erase_sure">Zorunlu</string>
   <string name="error_adding_apn_type">Operatör, %s türündeki APN\'lerin eklenmesine izin vermiyor.</string>
   <string name="error_apn_empty">APN boş olamaz.</string>
+  <string name="error_apn_not_allowed">Bu APN\'ye bu cihazda izin verilmiyor. Başka bir tane deneyin.</string>
   <string name="error_apn_restrict_string">APN alanı %1$s içeremez</string>
   <string name="error_capturing_system_heap_dump_message">Sistem yığın dökümü yakalanamadı</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
@@ -6457,9 +6458,9 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="miui_sos_contacts_category">Acil durum kişileri</string>
   <string name="miui_sos_emergency_contacts">Acil durum kişileri</string>
   <string name="miui_sos_emergency_contacts_quantity">%deklendi</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) zaten kabul edildi</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s zaten kabul edildi</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) sos mesaj gönderilemedi.</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) mesajı aldı</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s mesajı aldı</string>
+  <string name="miui_sos_emergency_failed_sms">%1$s (%2$s) adresine mesaj gönderilemedi</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1ssos mesaj gönderilemedi.</string>
   <string name="miui_sos_enable_switch_summary">Acil durum kişilerinize bulunduğunuz konumla ilgili SOS metin mesajı göndermek için Güç düğmesine 5 kez hızlıca basın</string>
   <string name="miui_sos_enable_switch_title">Acil durum SOS</string>
@@ -6875,7 +6876,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="color_led_applications_title_summary">Uygulamalar için tek tek LED ışık kullanımını kısıtlayabilirsiniz</string>
   <string name="color_led_battery_title">Şarj olurken devam edin</string>
   <string name="color_led_end_time">Bitiş zamanı</string>
-  <string name="color_led_game_mode_title">Oyun Turbo için kullan</string>
+  <string name="color_led_game_mode_title">Game Turbo için kullan</string>
   <string name="color_led_hint">LED ışığın kullanılması gereken durumları seçin. Ekran aşağı bakarken ve Rahatsız etme kapalı olduğunda LED ışığı yanacaktır.</string>
   <string name="color_led_incall_pulse_title">Gelen çağrılar için kullan</string>
   <string name="color_led_lucky_dialog_title">Kırmızı zarf asistanını açın</string>
@@ -6972,7 +6973,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="aod_settings_title">Her zaman açık ekran</string>
   <string name="feedback_settings">Hizmetler &amp; geri bildirim</string>
   <string name="full_screen_display">Tam ekran modu</string>
-  <string name="game_booster_title">Oyun Turbo</string>
+  <string name="game_booster_title">Game Turbo</string>
   <string name="gmscore_settings_title">Temel Google hizmetleri</string>
   <string name="google_account_title">Google</string>
   <string name="google_service_title">Google hizmetleri</string>
@@ -7042,7 +7043,7 @@ Oynatma kalitesi"</string>
   <string name="color_led_red_packets_summary">Kırmızı zarf asistanı açık durumdayken, WeChat ve QQ\'dan kırmızı zarf efektlerini göster</string>
   <string name="color_led_special_scene_title">Özel efektler</string>
   <string name="color_led_summary">Rahatsız etme modunda çalışmaz</string>
-  <string name="color_led_game_mode_summary">Oyun Turbo açık olduğunda oyunlar için efektleri göster</string>
+  <string name="color_led_game_mode_summary">Game Turbo açık olduğunda oyunlar için efektleri göster</string>
   <string name="full_screen_keyboard_optimization">Klavyeyi geliştirin</string>
   <string name="input_method_function_clipboard">Pano ve sık kullanılan ifadeler</string>
   <string name="input_method_function_clipboard_des">Pano içeriğini ve sık kullanılan cümleleri görüntülemek için dokunun</string>
@@ -7064,7 +7065,7 @@ Oynatma kalitesi"</string>
   <string name="long_press_power_key">Güç düğmesine uzun basın</string>
   <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>
   <string name="enable_screen_projection_summary">Ekran içeriğini harici bir monitöre yansıt</string>	
-  <string name="open_game_accelerate">Oyun Turbo\'yu aç</string>
+  <string name="open_game_accelerate">Game Turbo\'yu aç</string>
   <string name="open_haptic_feedback">Dokunsal geri bildirim</string>  
   <string name="other">Diğer</string>
   <string name="screen_projection">Yansıt</string>
@@ -7079,7 +7080,7 @@ Oynatma kalitesi"</string>
   <string name="screen_projection_example_document_title">Belgeler</string>
   <string name="screen_projection_example_gallery_summary">Harici monitörde görüntülemek için Galeri uygulamasında bir öğenin altındaki Paylaş düğmesine dokunun.</string>
   <string name="screen_projection_example_gallery_title">Fotoğraflar &amp; videolar</string>
-  <string name="screen_projection_example_game_summary">Oyun Turbo, oyunları harici bir ekrana aktarmanıza olanak tanır. Bu özelliği açmak için Oyun Turbo araç kutusundaki kısayolu kullanın.</string>
+  <string name="screen_projection_example_game_summary">Game Turbo, oyunları harici bir ekrana aktarmanıza olanak tanır. Bu özelliği açmak için Game Turbo araç kutusundaki kısayolu kullanın.</string>
   <string name="screen_projection_example_game_title">Oyunlar</string>
   <string name="screen_projection_help">Yardım</string>
   <string name="screen_projection_sample_summary">Belgeleri, oyunları, fotoğrafları ve videoları yansıt</string>
