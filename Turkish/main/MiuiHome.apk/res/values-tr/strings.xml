@@ -559,7 +559,7 @@
   <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
   <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>
   <string name="icon_size">Simge boyutu</string>
-  <string name="work_mode_off_label">Bildirimler ve uygulamalar kapalı</string>
+  <string name="work_mode_off_label">Bildirimler kapalı ve uygulamalar şu anda kullanılamıyor</string>
   <string name="work_mode_on_label">Kuruluşunuz tarafından yönetilir</string>
   <string name="work_profile_toggle_label">İş profili</string>
 </resources>
