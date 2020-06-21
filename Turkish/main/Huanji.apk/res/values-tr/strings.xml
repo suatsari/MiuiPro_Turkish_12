@@ -137,6 +137,7 @@
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="click_to_restore">Fabrika ayarlarına sıfırlandıktan sonra MIUI normal şekilde kullanabilmek için sistem öğelerini geri yükleyin. Başlatmak için dokunun.</string>
   <string name="close">Kapat</string>
+  
   <string name="close_twice_auth_btn">İki faktörlü kimlik doğrulamasını kapat</string>
   <string name="close_twice_auth_note">Not:\nYeni bir güvenlik sorusu oluşturduktan ve doğum tarihinizi doğruladıktan sonra, Apple ID ikili faktörlü kimlik doğrulama devre dışı bırakılacaktır. Apple ID hesap sayfasındaki iki faktörlü kimlik doğrulamayı kapatma seçeneğini görmüyorsanız, bunu kapatamazsınız.</string>
   <string name="close_twice_auth_operation">URL:\nKapatmak için https://appleid.apple.com/#!&amp;page=signin</string>
@@ -447,7 +448,6 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
   <string name="dialog_version_summary_tip">Yenilikler:</string>
   <string name="dialog_version_title_tip">Bir güncelleme mevcut</string>
-  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="do_not_restore_temporarily">Şimdi değil</string>
   <string name="document">Belgeler</string>
   <string name="early_morning">ÖÖ</string>
@@ -790,6 +790,8 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="prompt_before_transmission_message3_title">İkinci alanı kullanıyorsunuz</string>
   <string name="prompt_before_transmission_message4_summary">Aktarım tamamlanana kadar Wi-Fi özelliğini kapatmayın veya ağlar arasında geçiş yapmayın</string>
   <string name="prompt_before_transmission_message4_title">Aktarım boyunca bağlantıda kalın</string>
+  <string name="prompt_before_transmission_message5_summary">Büyük miktarda veriyi kablosuz olarak aktarmak anormal olmayan hafif aşırı ısınmaya neden olabilir. Aktarım tamamlandıktan hemen sonra cihazınız soğuyacaktır.</string>
+  <string name="prompt_before_transmission_message5_title">Aktarım sırasında cihazınız ısınabilir.</string>
   <string name="quit_now">Çık</string>
   <string name="reconnect">Tekrar bağlan</string>
   <string name="recovery_progress">Öğeler geri yükleniyor (%1$d/%2$d)…</string>
