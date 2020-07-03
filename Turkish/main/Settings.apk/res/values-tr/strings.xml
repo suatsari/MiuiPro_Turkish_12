@@ -3844,6 +3844,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="repeat">Tekrarla</string>
   <string name="repeat_call">Tekrarlanan çağrıları bildir</string>
   <string name="repeat_call_info">Sessiz modda 15 dakika içinde tekrarlanan aramalar için sese izin verin</string>
+  <string name="repeat_never">Asla</string>
   <string name="repeat_title">Tekrarla</string>
   <string name="reset_aaid">Reklam Tanımlayıcısını Sıfırla</string>
   <string name="reset_app_preferences">Uygulama seçeneklerini sıfırla</string>
