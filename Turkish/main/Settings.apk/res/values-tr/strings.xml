@@ -2576,6 +2576,8 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="location_mode_sensors_only_description">Konum belirlemek için GPS kullanın</string>
   <string name="location_mode_sensors_only_title">Sadece cihaz</string>
   <string name="location_mode_title">Mod</string>
+  <string name="location_modem_summary">Operatörler, baz istasyonları aracılığıyla konumunuzu öğrenecek</string>
+  <string name="location_modem_title">Konum bilgilerini operatörle paylaş</string>
   <string name="location_neighborhood_level">Uygulamaların konumunuzu tahmin etmek için WLAN ve mobil ağlardaki verileri kullanmasına izin verin</string>
   <string name="location_neighborhood_level_wifi">WLAN tarafından belirlenen konum</string>
   <string name="location_network_based">WLAN &amp; mobil ağ</string>
@@ -3446,6 +3448,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="payment_summary">%1$s varsayılandır</string>
   <string name="performance_category">Performans</string>
+  <string name="permission_action_prompt">Sor</string>
   <string name="permission_detail_info">Ayrıntılar</string>
   <string name="permission_detail_info_summary">%1$d güvenli | %2$d gizli | %3$d diğer</string>
   <string name="permission_manage">İzin yöneticisi</string>
@@ -6991,7 +6994,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="key_shortcut_settings_title">Düğme kısayolları</string>
   <string name="lock_screen_display_category_name">Kilit ekranı</string>
   <string name="more_account_settings_title">Diğer hesaplar</string>
-  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; Bildirim alanı</string>
+  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notch_settings">Çentik</string>
   <string name="notification_center">Bildirimler</string>
   <string name="other_sound_settings_title">Ek ayarlar</string>
@@ -7001,7 +7004,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="recommend_tip">Diğer ayarlara ihtiyacınız var mı?</string>
   <string name="screen_settings">Kilit ekranı</string>
   <string name="settings_new_version_btn">Güncelleştirme</string>
-  <string name="status_bar_title">Durum çubuğu</string>
+  <string name="status_bar_title">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="unlock_mode_title">Ekran kilidi</string>
   <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için \"Ses kısma\" düğmesine iki kez basın</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
