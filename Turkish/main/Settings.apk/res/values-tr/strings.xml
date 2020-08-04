@@ -264,6 +264,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="ai_settings_single_click_title">Basın</string>
   <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
   <string name="airplane_mode">Uçak modu</string>
+  <string name="airplane_mode_summary">Çağrıları, SMS\'leri, mobil veriyi devre dışı bırakır</string>
   <string name="alarm_ringtone_title">Varsayılan alarm zil sesi</string>
   <string name="alarm_sound_dialog_title">Alarmı seçiniz</string>
   <string name="alarm_sound_title">Alarm</string>
@@ -1974,6 +1975,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="find_my_device">Cihazı bul</string>
   <string name="find_my_device_disable">Kapalı</string>
   <string name="find_my_device_enable">Açık</string>
+  <string name="find_my_device_summary">Mi hesabına giriş yapılmalıdır</string>
   <string name="fingerprint_add_max">%d için parmak izi ekleyebilirsiniz</string>
   <string name="fingerprint_add_title">Parmak izi ekle</string>
   <string name="fingerprint_and_password_entrance_title">Ekran kilidi &amp; parmak izi</string>
@@ -2370,6 +2372,8 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="invalid_location">Yükleme konumu geçerli değil.</string>
   <string name="invalid_size_value">Paket boyutu belirlenemedi.</string>
   <string name="ipaddr_label">IP Adresi:</string>
+  <string name="ipv4_congertion_control">TCP yoğunluğu denetimini seçin</string>
+  <string name="ipv4_congertion_xontrol_chose">TCP yoğunluğu önleme algoritması</string>
   <string name="item_system_app">Sistem uygulamaları</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ve %2$s</string>
@@ -6570,9 +6574,9 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="call_records_name_1">Debbie Smith</string>
   <string name="call_records_name_2">Jason Lee</string>
   <string name="call_records_name_3">Tom Fowles</string>
-  <string name="call_records_summary_1">09:35 ÖÖ | 26 saniye | Turkcell</string>
-  <string name="call_records_summary_2">16 Ağustos | 1dk 16sn | Türk Telekom</string>
-  <string name="call_records_summary_3">16 Ağustos | 2dk 24sn | Vodafone</string>
+  <string name="call_records_summary_1">09:35 ÖÖ | 26 saniye</string>
+  <string name="call_records_summary_2">16 Ağustos | 1dk 16sn</string>
+  <string name="call_records_summary_3">16 Ağustos | 2dk 24sn</string>
   <string name="launcher_icon">Simgeler</string>
   <string name="miui_optimization_disabled">MIUI optimizasyonunu kapat</string>
   <string name="page_layout_34">Telefon</string>
