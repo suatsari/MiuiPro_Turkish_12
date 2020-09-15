@@ -96,7 +96,6 @@
   <string name="go_to_password">Kimlik Şifresi</string>
   <string name="guarder">%s cihazınızı yönetiyor.</string>
   <string name="how_to_bind">Nasıl bir cihaz ekleyebilirim?</string>
-  <string name="I_know">Biliyorum</string>
   <string name="last_time">%s dakika kaldı</string>
   <string name="loading">Yükleniyor...</string>
   <string name="location_service_notice">*Konum hizmetleri, Amap tarafından sağlanmaktadır.</string>
@@ -168,5 +167,4 @@
   <string name="bind_status_dialog_title">Eklenen cihazı geri yükle</string>
   <string name="bind_status_last_bind_time">İlk eklenen: %s</string>
   <string name="refresh">Yenile</string>
-  <string name="search_menu_title">Ara</string>
 </resources>
