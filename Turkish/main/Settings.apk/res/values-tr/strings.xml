@@ -1352,7 +1352,7 @@ Sorun şunlar olabilir:
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Pil Tasarrufu nedeniyle geçici olarak açıldı</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Açık / Pil Tasarrufu nedeniyle geçici olarak devre dışı bırakıldı</string>
   <string name="dark_ui_mode_title">Temayı ayarla</string>
-  <string name="dark_ui_settings_dark_summary">Desteklenen uygulamalar da karanlık temaya geçecektir</string>
+  <string name="dark_ui_settings_dark_summary">Desteklenen uygulamalar da Koyu temaya geçecektir</string>
   <string name="dark_ui_settings_dialog_acknowledge">Anladım</string>
   <string name="dark_ui_settings_light_summary">Bu ayarlar uygulamalar için de geçerlidir</string>
   <string name="dark_wallpaper_mode">Duvar kağıdını Koyu moda ayarla</string>
@@ -6661,10 +6661,10 @@ aptX-Adaptif: Kodek Modu"</string>
   <string name="aod_mode_clock">Saat</string>
   <string name="aod_mode_style">Zaman stili ve arka plan</string>
   <string name="aod_sample_date">May 10 Salı</string>
-  <string name="dark_color_mode">Karanlık mod</string>
+  <string name="dark_color_mode">Koyu mod</string>
   <string name="dark_color_summary">Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın</string>
-  <string name="open_dark_mode_dialog_summary">Bazı ekran ayarları Karanlık modla uyumlu değil. Ancak, Karanlık modu kapattığınızda bunlar geri yüklenir. Karanlık mod açılsın mı?</string>
-  <string name="open_dark_mode_dialog_title">Karanlık mod uyumluluğu</string>
+  <string name="open_dark_mode_dialog_summary">Bazı ekran ayarları Koyu modla uyumlu değil. Ancak, Koyu modu kapattığınızda bunlar geri yüklenir. Koyu mod açılsın mı?</string>
+  <string name="open_dark_mode_dialog_title">Koyu mod uyumluluğu</string>
   <string name="screen_cancel">İptal</string>
   <string name="screen_confirm">Aç</string>
   <string name="enable_gpu_debug_layers">GPU hata ayıklama katmanlarını etkinleştir</string>
@@ -6976,8 +6976,8 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="open_privacy_thumbnail_blur_title">Önizlemeler bulanık</string>
   <string name="privacy_thumbnail_blur_progress_message">Sadece bir saniye…</string>
   <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
-  <string name="dark_color_summary_lcd">"Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Karanlık mod, cihazınızı karanlıkta kullanırken göz yorgunluğunu gidermenize yardımcı olabilir."</string>
-  <string name="dark_color_summary_oled">Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Karanlık mod, güç tüketimini azaltır ve göz yorgunluğunu gidermeye yardımcı olur.</string>
+  <string name="dark_color_summary_lcd">"Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Koyu mod, cihazınızı karanlıkta kullanırken göz yorgunluğunu gidermenize yardımcı olabilir."</string>
+  <string name="dark_color_summary_oled">Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Koyu mod, güç tüketimini azaltır ve göz yorgunluğunu gidermeye yardımcı olur.</string>
   <string name="usage_app_get_it">Anladım</string>
   <string name="usage_app_limit_alter_summary">Bu süresi sınırı, bugün bu uygulamayı kullanmakta olduğunuz zamandan daha kısa gibi görünüyor. Sınırı yine de ayarla?</string>
   <string name="usage_app_limit_alter_title">Ekran süresi sınırını kontrol et</string>
@@ -7068,13 +7068,13 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="privacy_password_settings_summary">Gizlilik koruması şifresi, hassas bilgiler içerebilecek uygulamalar için kullanılır</string>
   <string name="bluetooth_disable_mi_fast_connect">Mi Bağlantı\'yı devre dışı bırak</string>
   <string name="bluetooth_disable_mi_fast_connect_summary">Mi Hızlı Bağlantı özelliğini devre dışı bırakın</string>
-  <string name="screen_dark_mode_time_title">Zamanlama</string>
+  <string name="screen_dark_mode_time_title">Koyu mod zamanlama</string>
   <string name="screen_dark_mode_advanced_title">Gelişmiş</string>
-  <string name="screen_dark_mode_smart_dark_title">Küresel karanlık modu</string>
+  <string name="screen_dark_mode_smart_dark_title">Küresel Koyu modu</string>
   <string name="screen_dark_mode_smart_dark_3rd_apps_list">Üçüncü taraf uygulamaları</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar Karanlık modda yanlış görüntülenebilir. Burada uygulamalar için tek tek Karanlık modunu kullanmayı kısıtlayabilirsiniz.</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar Koyu modda yanlış görüntülenebilir. Burada uygulamalar için tek tek Koyu modunu kullanmayı kısıtlayabilirsiniz.</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Bireysel uygulamalar</string>
-  <string name="screen_dark_mode_smart_dark_summary">Üçüncü taraf uygulamalara da karanlık modu uygulayın. Bazı uygulamalar yanlış görüntülenebilir</string>
+  <string name="screen_dark_mode_smart_dark_summary">Üçüncü taraf uygulamalara da Koyu modu uygulayın. Bazı uygulamalar yanlış görüntülenebilir</string>
   <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth ses LHDC kodeği: Gecikme</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Bluetooth ses LHDC kodeğini seçin:
@@ -7500,4 +7500,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="usb_use_file_transfers_miui12_5">Dosya aktarımı</string>
   <string name="usb_use_miui12_5">USB\'yi kullan</string>
   <string name="usb_use_photo_transfers_miui12_5">Fotoğraf aktarımı</string>
+  <string name="dark_mode_apps_header">Bireysel uygulamalar</string>
+  <string name="dark_mode_font_background_title">Metni ve arka planları otomatik olarak ayarlayın</string>
+  <string name="exterior">Renk uyumu</string>
+  <string name="light_color_mode">Açık mod</string>
+  <string name="more_dark_mode_settings">Daha fazla Koyu mod seçeneği</string>
 </resources>
