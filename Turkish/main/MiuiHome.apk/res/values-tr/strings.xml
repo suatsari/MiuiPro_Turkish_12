@@ -442,6 +442,8 @@
   <string name="recommend_loading">Yükleniyor</string>
   <string name="recommend_refresh">Yenile</string>
   <string name="recommend_xout">Gösterme</string>
+  <string name="remove_dialog_message">Uygulama, sistem için gerekli işlevleri içerir ve yalnızca masaüstü simgelerinin kaldırılmasını destekler.</string>
+  <string name="remove_dialog_title_format">%s kaldırılsın mı?</string>
   <string name="reset_description_first_time">Düzeni %1$s ile 2 saat içinde geri yükleyebilirsiniz.</string>
   <string name="reset_description_others">Düzeni %1$s ile geri yükleyebilirsiniz.</string>
   <string name="reset_fail">Geri yüklenemedi</string>
