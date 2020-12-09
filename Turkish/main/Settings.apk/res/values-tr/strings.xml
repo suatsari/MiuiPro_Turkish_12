@@ -5450,7 +5450,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="user_exit_guest_dialog_remove">Kaldır</string>
   <string name="user_exit_guest_title">Misafiri kaldır</string>
   <string name="user_experience_program">Kullanıcı Deneyim Programı</string>
-  <string name="user_experience_program_summary">Anonim kullanım verileri göndererek MIUI\'nin geliştirilmesine yardımcı olun</string>
+  <string name="user_experience_program_summary">Ürünlerimizi ve hizmetlerimizi iyileştirmek için Xiaomi\'nin kullanıcı verilerini toplamasına ve analiz etmesine izin verin. Daha fazla bilgi edinmek için Kullanıcı Deneyimi Programımızın hüküm ve koşullarını okuyun.</string>
   <string name="user_experience_program_title">Kullanıcı Deneyim Programı</string>
   <string name="user_guest">Misafir</string>
   <string name="user_image_choose_photo">Galeriden fotoğraf seç</string>
@@ -6482,9 +6482,9 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
   <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
-  <string name="aod_notification_style_none">Hiçbir şey yapma</string>
+  <string name="aod_notification_style_none">Yok</string>
   <string name="aod_notification_style_screen_on">Ekranı aydınlat</string>
-  <string name="aod_notification_style_animation">Animasyonu göster</string>	
+  <string name="aod_notification_style_animation">Animasyon</string>	
   <string name="following_us_title">Bizi takip edin</string>
   <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
   <string name="bootloader_device_bind_server_token_expired_1">Doğrulanamadı. Hesabınızı ve cihazınızı tekrar eklemeyi deneyin.</string>
@@ -7602,4 +7602,15 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="screen_enhance_engine_memc_note">Süper çözünürlük açıkken videolar geliştirilemez. Gelişmiş videoları açarak süper çözünürlüğü kapatabilirsiniz.</string>
   <string name="screen_enhance_engine_sr_for_video_note">Süper çözünürlük, gelişmiş videolarda çalışmaz. Süper çözünürlüğü açarak, gelişmiş videoları kapatmış olursunuz.</string>
   <string name="screen_enhance_engine_sr_pic_summary_video_only">Videoların çözünürlüğünü 1440p\'ye kadar yükseltin. Bu özellik, belirli uygulamalar tarafından desteklenir ve güç tüketimini biraz artırır.</string>
+  <string name="aggregate_rule_group_disabled">Gruplama</string>
+  <string name="aggregate_rule_group_enabled">Gruplandır</string>
+  <string name="aod_notification_style">Bildirim efekti</string>
+  <string name="error_xcap_not_add">APN Türü, XCAP türü olamaz.</string>
+  <string name="fold_rule_default">Önerilen</string>
+  <string name="fold_rule_important">Önemli</string>
+  <string name="fold_rule_unimportant">Önemsiz</string>
+  <string name="magic_window_name">Bölünmüş pencere</string>
+  <string name="truetone_summary">Renkleri ortam ışığına göre ayarlayın</string>
+  <string name="truetone_title">Uyarlanabilir renkler</string>
+  <string name="user_experience_open_url">Kullanıcı Deneyimi Programı hakkında daha fazla bilgi edinin</string>
 </resources>
