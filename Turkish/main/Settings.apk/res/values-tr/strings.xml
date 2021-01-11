@@ -2504,6 +2504,8 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="launch_noapp_dialog_replace">Ayarlar</string>
   <string name="launch_recents">Son uygulamalar</string>
   <string name="launch_voice_assistant">Ses asistanı başlat</string>
+  <string name="launcher_icon">Simgeler</string>
+  <string name="launcher_icon_management">Ana ekran kısayollarını yönet</string>
   <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>
@@ -6590,7 +6592,6 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="call_records_summary_1">%1$d:%2$d ÖÖ | %3$d saniye</string>
   <string name="call_records_summary_2">%1$d Ağustos | %2$dd %3$ds</string>
   <string name="call_records_summary_3">%1$d Ağustos | %2$dd %3$ds</string>
-  <string name="launcher_icon">Simgeler</string>
   <string name="miui_optimization_disabled">MIUI optimizasyonunu kapat</string>
   <string name="page_layout_34">Telefon</string>
   <string name="page_layout_35">Notlar</string>
