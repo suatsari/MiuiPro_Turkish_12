@@ -289,7 +289,11 @@
   <string name="guide_install_app_title">Uygulama bulunup, yüklensin mi?</string>
   <string name="guide_tips_editing_mode">Bir widget almak için basılı tutun</string>
   <string name="home_screen">Ana ekran</string>
+  <string name="icon_customize_summary">Stili seçin ve boyutu ayarlayın</string>
+  <string name="icon_form">Simgeler</string>
   <string name="icon_reorganize_channel">Simgeleri düzenle</string>
+  <string name="icon_size">Simge boyutu</string>
+  <string name="icon_style">Stil</string>
   <string name="image_too_small_message">Orijinal görüntü yeterince büyük değil</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -421,7 +425,7 @@
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
   <string name="recents_incompatible_app_message">Bu uygulama Bölünmüş ekranı desteklemiyor</string>
-  <string name="recents_layout_style">Son Kullanılanlar bölümündeki öğeleri düzenle</string>
+  <string name="recents_layout_style">Son Kullanılanlar bölümü düzeni</string>
   <string name="recents_layout_style_horizontal">Yatay olarak</string>
   <string name="recents_layout_style_vertical">Dikey olarak</string>
   <string name="recents_smallwindow_text">Eklemek için bırakın</string>
@@ -577,7 +581,6 @@
   <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntüle</string>
   <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
   <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>
-  <string name="icon_size">Simge boyutu</string>
   <string name="work_mode_off_label">Bildirimler kapalı ve uygulamalar şu anda kullanılamıyor</string>
   <string name="work_mode_on_label">Kuruluşunuz tarafından yönetilir</string>
   <string name="work_profile_toggle_label">İş profili</string>
