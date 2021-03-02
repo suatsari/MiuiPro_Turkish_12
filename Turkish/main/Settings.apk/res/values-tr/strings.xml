@@ -5136,6 +5136,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="title_layout_current">Yazı boyutu</string>
   <string name="title_layout_current2">Yazı boyutu</string>
   <string name="title_miui_music_mute_by_user">Sessiz mod</string>
+  <string name="title_special_features_health_global">Kalp atış hızı</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi Hesabınızda oturum açın</string>
   <string name="total">Rahatsız etme</string>
@@ -7613,8 +7614,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_key_config_close_summary">Gürültü gidermeyi ve saydamlığı kapatın</string>
   <string name="miheadset_key_config_gesture_control">Hareketler</string>
   <string name="miheadset_key_config_next_music">Sıradaki şarkı</string>
-  <string name="miheadset_key_config_noise_control">Aktif gürültü kontrolü</string>
-  <string name="miheadset_key_config_noise_control_summary">Seçilen iki aktif gürültü kontrol modu arasında geçiş yapmak için basılı tutun</string>
+  <string name="miheadset_key_config_noise_control">Gürültü kontrolü</string>
+  <string name="miheadset_key_config_noise_control_summary">Seçili iki gürültü kontrol modu arasında geçiş yapmak için basılı tutun</string>
   <string name="miheadset_key_config_noise_summary">Harici sesleri engelle</string>
   <string name="miheadset_key_config_press_left">Sol kulaklığa basılı tutun</string>
   <string name="miheadset_key_config_press_right">Sağ kulaklığa basılı tutun</string>
