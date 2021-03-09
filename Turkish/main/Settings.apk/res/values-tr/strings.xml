@@ -1017,6 +1017,9 @@ Sorun şunlar olabilir:
   <string name="brightness_title">Parlaklık</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop günlüğü</string>
   <string name="bt_hci_snoop_log_summary">Bütün Bluetooth HCI paketlerini bir dosyada toplayın</string>
+  <string name="bt_leaudio_open_dialog_summary">LC3 açıkken kulaklığınıza birden fazla cihaz bağlayamazsınız. Bu özelliği açarsanız diğer bağlı cihazların bağlantısı kesilecektir. Yine de LC3 açılsın mı?</string>
+  <string name="bt_leaudio_open_dialog_title">Dikkat</string>
+  <string name="bt_leaudio_summary">Yüksek kaliteli ses deneyimi</string>
   <string name="bt_rarely_used_device_title">Nadiren kullanılan cihazlar (%d)</string>
   <string name="bt_show_notification_summary">Bildirim alanında kalıcı bir bildirim göster</string>
   <string name="bt_show_notification_title">Bluetooth bağlantıları hakkında bilgilendir</string>
