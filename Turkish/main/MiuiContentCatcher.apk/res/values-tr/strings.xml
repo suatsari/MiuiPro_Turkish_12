@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Uygulama Uzantısı Hizmeti</string>
   <string name="auth_activity_label">Doğrulama kodları</string>
@@ -19,6 +19,7 @@
   <string name="autofill_password_activity_label">Doğrulama kodları</string>
   <string name="autofill_service_label">Şifreleri yönet</string>
   <string name="autofill_setting_activity_label">Şifreleri yönet</string>
+  <string name="back_button_label">Geri</string>
   <string name="cancel">İptal</string>
   <string name="change_passwork_dialog_content">Bu hesap için zaten bir şifre kaydettiniz. Şifre şimdi güncellensin mi?</string>
   <string name="change_passwork_dialog_title">Şifreyi güncelle?</string>
@@ -27,8 +28,8 @@
   <string name="ok">Tamam</string>
   <string name="save_content_tip">Aşağıdaki öğeler kaydedilecek:</string>
   <string name="search">Arama</string>
-  <string name="settings_clear_data_confirmation_title">Şifreleri silme</string>
   <string name="settings_clear_data_confirmation_description">"Şifreleri şimdi silerseniz, bir sonraki oturum açışınızda manuel olarak girmeniz gerekir.
-Şifre silinsin mi?"</string>  
+Şifre silinsin mi?"</string>
+  <string name="settings_clear_data_confirmation_title">Şifreleri silme</string>
   <string name="using_miui_autofill_message">MIUI, şifreleri otomatik olarak girmek için, hesap bilgilerinizi ve şifrelerinizi cihazınıza kaydeder.</string>
 </resources>
