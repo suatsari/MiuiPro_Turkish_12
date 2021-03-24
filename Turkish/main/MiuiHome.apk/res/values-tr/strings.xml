@@ -190,6 +190,7 @@
   <string name="defalut_launcher_title">Varsayılan başlatıcı</string>
   <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Oyunlar</string>
+  <string name="default_folder_title_hot">Popüler uygulamalar</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_recommend">Daha fazla uygulama</string>
   <string name="default_folder_title_security">Sistem</string>
