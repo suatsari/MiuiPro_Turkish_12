@@ -4117,7 +4117,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="screen_shot">Ekran görüntüsü</string>
   <string name="screen_timeout">Uyku</string>
   <string name="screen_timeout_summary">%1$s aktif olmadığında</string>
-  <string name="screen_timeout_title">Uyku modu</string>
+  <string name="screen_timeout_title">Ekranı otomatik olarak kilitle</string>
   <string name="screen_usage_summary">Tam şarjdan bu yana geçen ekran süresi</string>
   <string name="screen_zoom_conversation_icon_alex">M</string>
   <string name="screen_zoom_conversation_icon_pete">S</string>
@@ -7941,4 +7941,11 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="three_gesture_horizontal">%d parmağınızla yatay olarak kaydırın</string>
   <string name="three_gesture_pc_mode">PC modunu aç</string>
   <string name="user_agreement">Kullanım Şartları</string>
+  <string name="security_center_title">Güvenlik</string>
+  <string name="time_floating_window">Yüzer saat</string>
+  <string name="time_floating_window_summary">Diğer uygulamaların üzerinde yüzer pencerede saati göster</string>
+  <string name="screen_timeout_subtitle">Statik içeriğin uzun süre görüntülenmesi renklerin düzensiz olmasına neden olabilir</string>
+  <string name="switch_power_sound">Şarj sesi</string>
+  <string name="oaid_apps_summary">Tek tek uygulamalar için erişime izin verin veya kısıtlayın</string>
+  <string name="oaid_apps_title">Sanal kimliği yönet</string>
 </resources>
