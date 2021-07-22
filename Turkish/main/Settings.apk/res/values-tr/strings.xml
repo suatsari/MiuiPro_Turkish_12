@@ -2089,7 +2089,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamayacak.</string>
   <string name="firmware_version">Android sürümü</string>
-  <string name="fiveg_sa_switch_summary">Yalnızca test için, yardımcı SIM\'in SA işlevini etkinleştirin</string>
+  <string name="fiveg_sa_switch_summary">SA ağını ikincil SIM\'de kullanın (yalnızca test için)</string>
   <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="floating_window_switch_label">Kayan pencereleri aç</string>
   <string name="floating_window_switch_label_disable">Kayan pencereleri kapat</string>
