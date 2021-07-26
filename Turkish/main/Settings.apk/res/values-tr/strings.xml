@@ -3463,6 +3463,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="pad_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
   <string name="pad_backup_title">Mobil cihaz</string>
   <string name="pad_computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
+  <string name="pad_flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücüsü kullanın</string>
   <string name="pad_how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir.
 
 Mobil cihaz
