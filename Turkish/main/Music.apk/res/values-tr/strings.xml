@@ -41,7 +41,7 @@
   <string name="action_item_download">İndir</string>
   <string name="action_item_favorite">Favori</string>
   <string name="action_item_hide">Gizle</string>
-  <string name="action_item_hifi">Kulaklıklar &amp; Ses Efektleri</string>
+  <string name="action_item_hifi">Kulaklık</string>
   <string name="action_item_play_all">Tümünü Oynat</string>
   <string name="action_item_play_next">Sonra oynat</string>
   <string name="action_item_play_video">Müzik videosu oynat</string>
@@ -931,4 +931,9 @@
   <string name="you_can_switch_mode_in_settings">Ayarlar\’da modlar arasında geçiş yapabilirsiniz.</string>
   <string name="you_may_like">Şunlar da hoşunuza gidebilir</string>
   <string name="youtube_play_history">Oynatma geçmişi</string>
+  <string name="add">Ekle</string>
+  <string name="dialog_stop_audio_in">Oynatma zamanlayıcısı</string>
+  <string name="music_quality">Ses kalitesi</string>
+  <string name="no_lyrics">Şarkı sözü yok</string>
+  <string name="toast_hungama_vip_song">Bu şarkı sadece PRO üyelere açıktır. Bu şarkıyı indirmek için bir abonelik alın.</string>
 </resources>
