@@ -1981,9 +1981,10 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="external_ram_dialog_btn_ok">Yeniden başlat</string>
   <string name="external_ram_dialog_message">Değişiklikleri uygulamak için cihazınızı yeniden başlatın.</string>
   <string name="external_ram_dialog_title">Cihazı yeniden başlatın</string>
+  <string name="external_ram_remind_toast">Depolama alanı azalıyor. Şimdilik bellek uzantısı kapatıldı.</string>
   <string name="external_ram_summary">Depolama alanını kullanarak %1$s %2$s RAM ekleyin. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın.</string>
   <string name="external_ram_title">Bellek uzantısı</string>
-  <string name="external_ram_toast">Yetersiz depolama alanı nedeniyle bellek uzantısı kullanılamıyor</string>
+  <string name="external_ram_toast">Yetersiz depolama alanı nedeniyle bellek uzantısı kullanılamıyor</string>  
   <string name="external_source_switch_title">Bu kaynaktan izin verin</string>
   <string name="external_source_trusted">İzin verildi</string>
   <string name="external_source_untrusted">İzin verilmiyor</string>
