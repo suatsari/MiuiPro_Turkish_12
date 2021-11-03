@@ -742,4 +742,15 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="withdraw">Geri çek</string>
   <string name="withdraw_consent">Onayın geri çekilmesi</string>
   <string name="withdraw_consent_hint">Devam ederseniz, %1$s Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinir. %2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından, izninizi geri çekmeniz, %3$s hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Onay şimdi geri çekilsin mi?</string>
+  <string name="i_get_it">Anladım</string>
+  <string name="privacy_policy_update_hint">"%1$s Gizlilik Politikası güncellendi:
+%2$s
+Devam etmeden önce %3$s yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="privacy_policy_update_title">Güncellenen Gizlilik Politikası</string>
+  <string name="user_must_known">Dikkat</string>
+  <string name="user_must_known_content">%s yeni sürümünü kabul etmediğiniz sürece hizmetlerimizi kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?</string>
+  <string name="withdraw_consent_failed">Onay geri çekilemedi</string>
+  <string name="withdraw_consent_failed_hint">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="withdrawing">Onay geri çekiliyor…</string>
 </resources>
